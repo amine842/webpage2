@@ -12,7 +12,7 @@ a  {
 }
 
 a:hover, a:focus{
-    color: blue;
+    color: rgb(24, 24, 185);
 }
 
 #navbar {
